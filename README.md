@@ -42,7 +42,7 @@ Git Bash에서 `node` 명령을 사용할 수 없는 문제 해결을 위해 환
 * `npm.cmd` - Node.js 모듈 설치 시, 사용하는 NPM 실행 파일.
 * `node_modules` - Node.js 모듈이 설치되는 디렉토리.
 
-![Node.js 설치 파일 구성](GUIDE/node-01.jpg)
+![Node.js 설치 파일 구성](yamoo9/jQuery-Class/raw/master/GUIDE/node-01.jpg)
 
 -
 
@@ -51,7 +51,7 @@ Git Bash에서 `node` 명령을 사용할 수 없는 문제 해결을 위해 환
 nodejs 폴더의 경로를 마우스로 선택한 후, 오른쪽 버튼을 눌러 `주소복사` 선택<br>
 `e.g) nodejs 폴더가 설치 이후, 변경된 경우`
 
-![Node.js 경로](GUIDE/node-04.jpg)
+![Node.js 경로](yamoo9/jQuery-Class/raw/master/GUIDE/node-03.jpg)
 
 -
 
@@ -59,7 +59,7 @@ nodejs 폴더의 경로를 마우스로 선택한 후, 오른쪽 버튼을 눌�
 
 `제어판` > `고급 시스템 설정` > `시스템 속성(고급)` > `환경변수`
 
-![제어판 > 고급 시스템 설정 > 시스템 속성(고급) > 환경변수](GUIDE/node-02.jpg)
+![제어판 > 고급 시스템 설정 > 시스템 속성(고급) > 환경변수](yamoo9/jQuery-Class/raw/master/GUIDE/node-02.jpg)
 
 
 -
@@ -68,7 +68,7 @@ nodejs 폴더의 경로를 마우스로 선택한 후, 오른쪽 버튼을 눌�
 
 `환경변수` > `사용자 변수` > `path` > `편집` > `Node.js 폴더 경로 추가` > `확인`
 
-![환경변수 > 사용자 변수 path > 편집 > Node.js 경로](GUIDE/node-03.jpg)
+![환경변수 > 사용자 변수 path > 편집 > Node.js 경로](yamoo9/jQuery-Class/raw/master/GUIDE/node-03.jpg)
 
 
 <!-- [Node.js 사용자 환경변수 추가](http://combatguri.tistory.com/m/post/11) -->

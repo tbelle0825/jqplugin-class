@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+	<meta http-equiv="x-ua-Compatible" content="IE=Edge">
+	<meta charset="UTF-8">
+	<title>JS모듈로더-config.js를 별도 관리할 경우</title>
+	<script src="js/require.js" data-main="js/main_config"></script>
+</head>
+	<body>
+		<script>
+			// 호출된 모듈 확인 코드
+			console.log(
+				'jQuery:' + window.jQuery+'\n',
+				'Modernizr:' + window.Modernizr+'\n',
+				'Detectizr:' + window.Detectizr
+			);
+		</script>
+	</body>
+</html>

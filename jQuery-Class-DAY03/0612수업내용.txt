@@ -1,0 +1,18 @@
+
+gitbash 명령어
+서버설치 : 
+npm install http-server --global
+npm install --global http-server 
+
+cd www
+
+http-server -a(adress) localhost -p(포트) 8080(포트번호) -o(브라우저 오픈)
+http-server -a localhost -p 8080 -o
+
+cdnjs.com에서
+require.js
+
+
+https://github.com/yamoo9/RWD-Mobile-First-Project
+최적화작업은 이 자료 참고
+
